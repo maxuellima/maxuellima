@@ -1,7 +1,5 @@
 ### Olá, eu sou Maxuel Lima!
-
-
-Here are some ideas to get you started:
+Estou a procura de um emprego na área de tecnologia. Sou estudante FullStack na Labenu e faço graduação em análise e desenvolvimento de sistemas. 
 
 - 🔭 Hoje programo em front-end
 - 🌱 Estou aprendendo React

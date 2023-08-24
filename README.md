@@ -1,5 +1,5 @@
-### Olá, eu sou Maxuel Lima, seja bem-vinde ao meu perfil!
-## Estou a procura de um emprego na área de tecnologia. Sou estudante FullStack na Labenu e faço graduação em análise e desenvolvimento de sistemas. Sou mestre em história, estou em transição de carreira e almejando uma oportunidade de trabalho para me dedicar inteiramente à área.
+# Olá, eu sou Maxuel Lima, seja bem-vinde ao meu perfil!
+### Estou a procura de um emprego na área de tecnologia. Sou estudante FullStack na Labenu e faço graduação em análise e desenvolvimento de sistemas. Sou mestre em história, estou em transição de carreira e almejando uma oportunidade de trabalho para me dedicar inteiramente à área.
 
 - 🔭 Hoje programo em front-end
 - 🌱 Estou aprendendo React

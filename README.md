@@ -10,6 +10,8 @@
 <img height ="180em" src = "https://github-readme-stats.vercel.app/api?username=maxuellima&show_icons=true&theme=algolia"/>
 <img height ="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=algolia"/>
 </div>
+
+### Tecnologias que utilizo no meu dia-a-dia: 
 <div style="display: inline_block"><br>
   <img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Max-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
